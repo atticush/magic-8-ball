@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 .intro {
-  text-align: center;
+  text-align: left;
 }
 .question,
 .answer {
-  text-align: center;
+  text-align: left;
 }
 .buttons {
   text-align: center;
