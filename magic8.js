@@ -1,4 +1,4 @@
-/* global $ */
+
 var pastQuestions = [];
 var pastAnswers = [];
 function getAnswer() {
